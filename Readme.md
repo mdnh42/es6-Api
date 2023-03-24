@@ -17,6 +17,12 @@ ES6 New Features:
 - Reduce 
 - . Notation or [] 
 
+
+API: 
+- JSON.stringfy 
+- JSON.Parse
+
+
 - Class, constructor, method, this Keywod
 - 
 
