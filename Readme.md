@@ -21,7 +21,8 @@ ES6 New Features:
 API: 
 - JSON.stringfy 
 - JSON.Parse
-
+- Fetch 
+- 
 
 - Class, constructor, method, this Keywod
 - 
