@@ -1,4 +1,4 @@
-ES6 New Features: 
+## ES6 New Features: 
 - Const and Let 
 - Let: Let it to reassign. 
 - Const: Do not allow it to reassign. 
@@ -18,15 +18,30 @@ ES6 New Features:
 - . Notation or [] 
 
 
-API: 
+## API: 
 - JSON.stringfy 
 - JSON.Parse
 - Fetch 
-- 
+- HTTP/HTTPS Metrhod: GET, POST, PATCH, DELETE, CRUD, GET VS POST
+- PETCH (Update/Edit)
+- BY Default GET 
+- Petch - PUT(New Element or Change) 
 
 - Class, constructor, method, this Keywod
-- 
+- GET, POST, PATCH, DELETE, CRUD, GET Vs POST
 
+- CRUD C-Create, R-REad, U-Update and D-Delete.
+
+
+## HTPP STATUS CODE 
+    - 200 OK
+    - 301 Moved Permentaly 
+    - 302 Moved Temporaily 
+    - 404 Not Found 
+    - 500 Internal Server Error 
+    - 503 Service Unavaiable 
+
+## Google Chrome Network Option 
 
 ES6 Interview Question: 
 1. What is ES6? Have you ever used anything from ES6?
@@ -62,3 +77,19 @@ Common Interview questions ON THIS MODULE
 8. Is optional chaining is same as ternary operator?
 9. What do you mean by dot notation and bracket notation? When should you use dot notation or
 bracket notation?
+
+
+## Common Interveiw Questions: 
+1. What is an API? 
+2. What are the HTTP methods supported by REST? 
+3. Can you use GET request instead of PUT to create a resuouce? 
+4. What is the difference between PUT and Post? 
+5. What is JSON? 
+6. What are CRUD Operations? 
+7. What is the file extension of JSON? 
+8. What is the data types supported by JSON? 
+9. What is the role of JSON.Stringify? 
+10. Show how to parse a JSON? 
+11. GET vs Post Rquest. 
+
+
