@@ -31,6 +31,13 @@
 - GET, POST, PATCH, DELETE, CRUD, GET Vs POST
 
 - CRUD C-Create, R-REad, U-Update and D-Delete.
+- Create, Keys(Property Start Part), values(Property Second Part), entries(Both), delete, seal, freeze. 
+
+- For of (Array)
+- For in (Object)
+
+- Object Compare =>
+
 
 
 ## HTPP STATUS CODE 
