@@ -39,6 +39,33 @@
 - Object Compare =>
 
 
+## 8 ways to get undefined 
+1. variable that is not inititalized will give undefined
+2. Function with no return 
+3. Parameter that is not passed will be undeifed. 
+4. If return has nothing on the right side will return undefined. 
+5. Property that doens't exist on an object will give you undefined. 
+6. Acceing array elements outside outside of the index.
+
+
+## Truthly and Falsy 
+    
+## == vs === (TYPE COERCION)
+    always use ===
+    Equal comparison doesn't work for non-primitive
+    == check value 
+    === check value and its types
+
+    Notes: type coercion/type conversion 
+
+
+## Block Scope Global Scope sImpl Understanding of Hoisting. 
+    - block Scope variable not accsssing other side or global side. 
+    - 
+
+
+## Closure, Encapsulation, Private Variable
+    - Closure -> 
 
 ## HTPP STATUS CODE 
     - 200 OK
@@ -48,7 +75,9 @@
     - 500 Internal Server Error 
     - 503 Service Unavaiable 
 
+
 ## Google Chrome Network Option 
+
 
 ES6 Interview Question: 
 1. What is ES6? Have you ever used anything from ES6?
@@ -98,5 +127,18 @@ bracket notation?
 9. What is the role of JSON.Stringify? 
 10. Show how to parse a JSON? 
 11. GET vs Post Rquest. 
+
+## Common Interviw Question: 
+    - Tell the difference between primitive and non-primtive Data types in js. 
+    - What are the Truthy and Falsy values? give me some examples 
+    - What is the difference between NULL and undefined?
+    - what are the differences between double equal (==) and triple equal (===)
+    - What is scope in JS
+    - Define block scope and global scope. 
+    - What is hoisting in JavaScript? 
+    - Explain closure in JavaScript?
+    - Explain passed by value and passed by reference 
+    
+
 
 
